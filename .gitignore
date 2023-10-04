@@ -1,0 +1,3 @@
+# Project exclude paths
+/lib1/target/
+/runner/target/
